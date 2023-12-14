@@ -1,7 +1,7 @@
 # CrochetPARADE
 
 Author: Svetlin Tassev
-https://github.com/crochetparade/CrochetPARADE/tree/main
+
 CrochetPARADE (Crochet PAttern Renderer, Analyzer, and DEbugger) is a platform that allows users to create, visualize, and analyze both 2D and 3D crochet patterns.
 
 The project is hosted at:
