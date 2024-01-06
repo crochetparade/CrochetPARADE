@@ -44,12 +44,12 @@ wear crochet hats and sweaters that match real-world crochet projects.
    
 ## LICENSE AND COPYRIGHT
 
-   * The website and all of its computational components are free and open source and are released under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html#license-text">GPLv3 license</a>, with an exception provided for including <a href="https://graphviz.org/">Graphviz</a> as part of the computational engine. This ensures that the platform will be free and open to all in perpetuity.
+   * The website and all of its computational components are free and open source and are released under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html#license-text">GPLv3 license</a>. This ensures that the platform will be free and open to all in perpetuity.
    * The showcase patterns are either in the public domain (as specified in the pattern description) or are created by the author and are released in the public domain.
    * This user manual which includes a description of the CrochetPARADE grammar is released under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA</a> license. The grammar itself cannot be copyrighted and, as any language, is in the public domain.</li>
     
 ## ACKNOWLEDGEMENTS
 
-CrochetPARADE uses the following libraries: <a href="https://viz-js.com/">Viz.js</a>, <a href="https://svgjs.dev/">SVG.js</a> and
+CrochetPARADE uses the following libraries: <a href="https://svgjs.dev/">SVG.js</a> and
     <a href="https://threejs.org/">three.js</a>.
 
