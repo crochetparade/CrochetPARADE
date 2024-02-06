@@ -1,5 +1,19 @@
 # CrochetPARADE
 
+**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
+**The repository is hosted at:**
+
+[https://codeberg.org/crochetparade/CrochetPARADE](https://codeberg.org/crochetparade/CrochetPARADE)
+
+**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
+**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
+**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
+**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
 Author: Svetlin Tassev
 
 CrochetPARADE (Crochet PAttern Renderer, Analyzer, and DEbugger) is a platform that allows users to create, visualize, and analyze both 2D and 3D crochet patterns.
@@ -8,8 +22,6 @@ The project is hosted at:
 
 [https://www.crochetparade.org/](https://www.crochetparade.org/)
 
-**!!!!!!!!!!!!!!The repository is hosted at:!!!!!!!!!!!!!!**
-[https://codeberg.org/crochetparade/CrochetPARADE](https://codeberg.org/crochetparade/CrochetPARADE)
 
 ## OVERVIEW
 
