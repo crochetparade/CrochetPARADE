@@ -29,7 +29,7 @@ CrochetPARADE uses a custom language grammar that allows users to define stitche
 
 After rendering a pattern, users can review ('debug') the final project's shape and make adjustments. The platform identifies overly loose or tight stitches, enabling users to replace them with more suitable ones before crocheting, thus reducing the need for blocking.
 
-CrochetPARADE's export feature allows users to generate an SVG image that shows stitch connections and identifies stitches by their type, row number, and position within a row. The SVG pattern shows the same information as standard crochet diagrams and can be used as a guide when crocheting. Users can also export projects to 3D files that can be imported in <a href="https://www.blender.org">Blender</a> for further manipulation and visualization.
+CrochetPARADE's export feature allows users to export a crochet chart of their project using standard crochet symbols. One can also export an SVG image that shows stitch connections and identifies stitches by their type, row number, and position within a row. The SVG pattern shows the same information as standard crochet diagrams and can be used as an alternative guide when crocheting. Users can also export projects to 3D files that can be imported in <a href="https://www.blender.org">Blender</a> for further manipulation and visualization.
 
 
 CrochetPARADE includes interactive features such as the ability to rotate, zoom, and pan the 3D view, as well as animating the pattern creation process, which can help in visualizing how stitches attach to each other. Additional features include highlighting and hiding selected stitches, and changing yarn thickness and color. Users can access stitch information by hovering over stitches in the 3D view.
