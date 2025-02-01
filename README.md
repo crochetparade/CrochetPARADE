@@ -65,3 +65,24 @@ wear crochet hats and sweaters that match real-world crochet projects.
 CrochetPARADE uses the following libraries: <a href="https://svgjs.dev/">SVG.js</a> and
     <a href="https://threejs.org/">three.js</a>.
 
+## Some examples created with CrochetPARADE
+
+### Standard crochet charts
+
+![3d_lacy_hat](https://github.com/user-attachments/assets/b6abb9ea-c407-4784-bdbc-37d60152117a)
+![baby_blanket](https://github.com/user-attachments/assets/9356a7df-e0c1-4a66-a8c1-f47db06d51ac)
+![fillet_crochet_logo](https://github.com/user-attachments/assets/c096e2d8-8b21-4a9b-ab51-cea8b4e1c919)
+![granny_square](https://github.com/user-attachments/assets/8836862c-0dc9-432a-a0c1-033334cd019d)
+![simple_swatch](https://github.com/user-attachments/assets/ea46afff-175f-4066-aff4-706ee1fec5b2)
+![irish_doily_small](https://github.com/user-attachments/assets/a37f65be-e45c-4fa8-a8f8-347c7b9725d7)
+
+### 3D renderings
+
+![image](https://github.com/user-attachments/assets/8805aea2-0259-4f66-9eca-8ffe2ab7bb9c)
+![image](https://github.com/user-attachments/assets/abbcc975-88a6-4332-9f2e-11ce61e78ffc)
+![image](https://github.com/user-attachments/assets/a8b8a93e-9629-474e-b760-88918d3edd36)
+![image](https://github.com/user-attachments/assets/304eff05-2522-4aea-8f3c-6b30b4510c4e)
+![image](https://github.com/user-attachments/assets/a6bec748-2ed9-4137-a767-8fa6f06239d1)
+![image](https://github.com/user-attachments/assets/952892c5-d59b-4123-a286-a9cb471258f3)
+
+
