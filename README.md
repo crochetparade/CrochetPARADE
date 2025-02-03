@@ -69,12 +69,12 @@ CrochetPARADE uses the following libraries: <a href="https://svgjs.dev/">SVG.js<
 
 ### Standard crochet charts
 
-![3d_lacy_hat](https://github.com/user-attachments/assets/b6abb9ea-c407-4784-bdbc-37d60152117a)
+![simple_swatch](https://github.com/user-attachments/assets/20f5ce63-e602-4825-9f36-c738ef21e260)
+![irish_doily](https://github.com/user-attachments/assets/a0fce857-b379-4a52-871a-f190fed54dbf)
+![granny_square](https://github.com/user-attachments/assets/7048d666-c238-488e-9a3e-8ad8b8eae001)
+![3d_lacy_hat](https://github.com/user-attachments/assets/8068f960-9518-4c6e-b6af-2accd882c3de)
 ![baby_blanket](https://github.com/user-attachments/assets/9356a7df-e0c1-4a66-a8c1-f47db06d51ac)
 ![fillet_crochet_logo](https://github.com/user-attachments/assets/c096e2d8-8b21-4a9b-ab51-cea8b4e1c919)
-![granny_square](https://github.com/user-attachments/assets/8836862c-0dc9-432a-a0c1-033334cd019d)
-![simple_swatch](https://github.com/user-attachments/assets/ea46afff-175f-4066-aff4-706ee1fec5b2)
-![irish_doily_small](https://github.com/user-attachments/assets/a37f65be-e45c-4fa8-a8f8-347c7b9725d7)
 
 ### 3D renderings
 
