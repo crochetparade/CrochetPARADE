@@ -81,7 +81,7 @@ CrochetPARADE uses the following libraries: <a href="https://svgjs.dev/">SVG.js<
 ![image](https://github.com/user-attachments/assets/8805aea2-0259-4f66-9eca-8ffe2ab7bb9c)
 ![image](https://github.com/user-attachments/assets/abbcc975-88a6-4332-9f2e-11ce61e78ffc)
 ![image](https://github.com/user-attachments/assets/a8b8a93e-9629-474e-b760-88918d3edd36)
-![image](https://github.com/user-attachments/assets/304eff05-2522-4aea-8f3c-6b30b4510c4e)
+![image](https://github.com/user-attachments/assets/a926a8ff-7a3b-49b0-b53e-56a9d6651459)
 ![image](https://github.com/user-attachments/assets/a6bec748-2ed9-4137-a767-8fa6f06239d1)
 ![image](https://github.com/user-attachments/assets/952892c5-d59b-4123-a286-a9cb471258f3)
 
