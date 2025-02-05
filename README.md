@@ -70,7 +70,7 @@ CrochetPARADE uses the following libraries: <a href="https://svgjs.dev/">SVG.js<
 ### Standard crochet charts
 
 ![simple_swatch](https://github.com/user-attachments/assets/20f5ce63-e602-4825-9f36-c738ef21e260)
-![irish_doily](https://github.com/user-attachments/assets/a0fce857-b379-4a52-871a-f190fed54dbf)
+![irish_doily1](https://github.com/user-attachments/assets/09697412-bca6-4483-8af6-837273f08a3f)
 ![granny_square](https://github.com/user-attachments/assets/7048d666-c238-488e-9a3e-8ad8b8eae001)
 ![3d_lacy_hat](https://github.com/user-attachments/assets/8068f960-9518-4c6e-b6af-2accd882c3de)
 ![baby_blanket](https://github.com/user-attachments/assets/9356a7df-e0c1-4a66-a8c1-f47db06d51ac)
