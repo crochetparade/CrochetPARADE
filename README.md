@@ -65,18 +65,24 @@ wear crochet hats and sweaters that match real-world crochet projects.
 CrochetPARADE uses the following libraries: <a href="https://svgjs.dev/">SVG.js</a> and
     <a href="https://threejs.org/">three.js</a>.
 
-## Some examples created with CrochetPARADE
+## Some examples created with CrochetPARADE crochet software
 
-### Standard crochet charts
+### Crochet diagrams using standard crochet symbols
 
+#### Crochet chart for a swatch of various stitches
 ![simple_swatch](https://github.com/user-attachments/assets/20f5ce63-e602-4825-9f36-c738ef21e260)
+#### Crochet chart for Irish doily
 ![irish_doily1](https://github.com/user-attachments/assets/09697412-bca6-4483-8af6-837273f08a3f)
+#### Crochet chart for granny square
 ![granny_square](https://github.com/user-attachments/assets/7048d666-c238-488e-9a3e-8ad8b8eae001)
-![3d_lacy_hat](https://github.com/user-attachments/assets/8068f960-9518-4c6e-b6af-2accd882c3de)
+#### Crochet chart for baby blanket
 ![baby_blanket](https://github.com/user-attachments/assets/9356a7df-e0c1-4a66-a8c1-f47db06d51ac)
+#### Crochet chart for fillet crocheted logo
 ![fillet_crochet_logo](https://github.com/user-attachments/assets/c096e2d8-8b21-4a9b-ab51-cea8b4e1c919)
+#### 3D crochet chart of a lacy hat
+![3d_lacy_hat](https://github.com/user-attachments/assets/8068f960-9518-4c6e-b6af-2accd882c3de)
 
-### 3D renderings
+### 3D crochet models
 
 ![image](https://github.com/user-attachments/assets/8805aea2-0259-4f66-9eca-8ffe2ab7bb9c)
 ![image](https://github.com/user-attachments/assets/abbcc975-88a6-4332-9f2e-11ce61e78ffc)
