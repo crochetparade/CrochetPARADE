@@ -70,17 +70,23 @@ CrochetPARADE uses the following libraries: <a href="https://svgjs.dev/">SVG.js<
 ### Crochet diagrams using standard crochet symbols
 
 #### Crochet chart for a swatch of various stitches
-![simple_swatch](https://github.com/user-attachments/assets/20f5ce63-e602-4825-9f36-c738ef21e260)
+![crochet_symbols - 2025-02-22T055609 514](https://github.com/user-attachments/assets/9cf41f5d-6b8b-480e-9b33-a89f69d9c6b1)
+
 #### Crochet chart for Irish doily
-![irish_doily1](https://github.com/user-attachments/assets/09697412-bca6-4483-8af6-837273f08a3f)
+![crochet_symbols - 2025-02-22T061054 628](https://github.com/user-attachments/assets/a96c9bbb-81e1-442b-8cea-6c1d131f58b1)
+
 #### Crochet chart for granny square
-![granny_square](https://github.com/user-attachments/assets/7048d666-c238-488e-9a3e-8ad8b8eae001)
+![crochet_symbols - 2025-02-22T055512 369](https://github.com/user-attachments/assets/54bcc38d-ecda-40a2-a212-e65c3a3a1726)
+
 #### Crochet chart for baby blanket
-![baby_blanket](https://github.com/user-attachments/assets/9356a7df-e0c1-4a66-a8c1-f47db06d51ac)
+![crochet_symbols - 2025-02-22T055542 009](https://github.com/user-attachments/assets/2db58ebc-08a3-4490-a825-618ff0951e38)
+
 #### Crochet chart for fillet crocheted logo
-![fillet_crochet_logo](https://github.com/user-attachments/assets/c096e2d8-8b21-4a9b-ab51-cea8b4e1c919)
+![crochet_symbols - 2025-02-22T055900 426](https://github.com/user-attachments/assets/5656153d-a9e9-4543-9655-e3d0aa9f3115)
+
 #### 3D crochet chart of a lacy hat
-![3d_lacy_hat](https://github.com/user-attachments/assets/8068f960-9518-4c6e-b6af-2accd882c3de)
+![crochet_symbols - 2025-02-22T060312 646](https://github.com/user-attachments/assets/eaaf6fa9-96cd-4783-a80c-ab3f62bb279d)
+
 
 ### 3D crochet models
 
